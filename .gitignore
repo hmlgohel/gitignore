@@ -1,3 +1,9 @@
+# this is a comment
+# ignore single file
 new-file.txt
 
+# ignore entire folder
 bin/
+
+# ignore all .tmp file
+*.tmp
